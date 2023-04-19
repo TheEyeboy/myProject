@@ -10,8 +10,8 @@
 
 :root {
     --color-primary: white;
-    --color-success: greenyello;
-    --color-warning: red;
+    --color-success: greenyellow;
+    --color-warning: skyblue;
     --color-danger: rgba(176, 13, 13, 0.69);
     --color-danger-variant: rgb(152, 57, 78);
     --color-white: white;
