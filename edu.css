@@ -113,7 +113,7 @@ nav {
 /*change navbar styles on scroll using javascript*/
 .window-scroll {
     background: var(--color-primary);
-    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0.6rem 0.6rem rgba(0, 0, 0, 0.3);
 }
 
 .nav__container {
