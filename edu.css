@@ -544,7 +544,7 @@ footer ul li a:hover {
 }
 
 /*=========MEDIA QUERY (PHONES)============*/
-@media (max-width: 600px) {
+@media (max-width: 640px) {
     .container {
         width: var(--container-width-sm);
     }
