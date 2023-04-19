@@ -286,7 +286,7 @@ header {
     align-items: center;
     gap: 1.6rem;
     height: fit-content;
-    background: rgba(245, 232, 3, 0.781);
+    background: gray;
     cursor: pointer;
 }
 
