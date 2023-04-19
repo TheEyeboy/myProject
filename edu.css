@@ -9,17 +9,17 @@
 }
 
 :root {
-    --color-primary: yellow;
-    --color-success: rgb(156, 234, 171);
+    --color-primary: white;
+    --color-success: whitesmoke;
     --color-warning: red;
     --color-danger: rgba(176, 13, 13, 0.69);
     --color-danger-variant: rgb(152, 57, 78);
     --color-white: white;
     --color-light: rgb(242, 242, 1);
-    --color-black: rgb(181, 181, 17);
+    --color-black: white;
     --color-bg: rgb(248, 248, 64);
-    --color-bg1: yellow;
-    --color-bg2: rgb(243, 243, 104);
+    --color-bg1: whitesmoke;
+    --color-bg2: white;
    
     --container-width-lg: 76%;
     --container-width-md: 90%;
