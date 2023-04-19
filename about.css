@@ -24,13 +24,13 @@
     padding: 2rem;
     border-radius: 3rem;
     text-align: center;
-    box-shadow: 0 3rem 3rem rgba(0,0,0,0.4);
+    box-shadow: 0 2rem 2rem rgba(0,0,0,0.25);
     transition: 0.5s;
 }
 
 .achievement__card:hover {
     background: var(--color-bg2);
-    box-shadow: 0 -3rem -3rem rgba(0,0,0,0.4) ;
+    box-shadow: 0 -1.5rem -1.5rem rgba(0,0,0,0.3) ;
 }
 
 .achievement__icon {
@@ -59,7 +59,7 @@
 
 .team {
     background: var(--color-bg1);
-    box-shadow: inset 0 0 3rem rgba(0,0,0,0.6);
+    box-shadow: inset 0 0 2rem rgba(0,0,0,0.3);
 }
 
 .team__container {
@@ -79,7 +79,7 @@
 }
 
 .team__member:hover{
-    box-shadow: 0 3rem 3rem rgba(0,0,0,0.4) ;
+    box-shadow: 0 2rem 2rem rgba(0,0,0,0.3) ;
     border-color: var(--color-primary);
 }
 
@@ -140,7 +140,7 @@
 }
 
 /*==========MEDIA QUERIES (Phones)=============*/
-@media (max-width: 600px) {
+@media (max-width: 640px) {
     .achievement__cards {
         grid-template-columns: 1fr 1fr;
         gap: 0.7rem;
