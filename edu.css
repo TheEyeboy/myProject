@@ -427,7 +427,7 @@ footer ul li a:hover {
     /*===================NavBar===================*/
     nav button {
         display: inline-block;
-        background: transparent;
+        background: black;
         font-size: 1.8rem;
         color: var(--color-black);
         cursor: pointer;
